@@ -2,6 +2,7 @@ import 'package:calculator/provider/calculator_provider.dart';
 import 'package:calculator/imports.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter/material.dart';
+import 'package:in_app_purchase/in_app_purchase.dart';
 
 class Calculator extends StatelessWidget {
   const Calculator({Key? key}) : super(key: key);
